@@ -1,0 +1,11 @@
+D:\C#\Мои проекты\Все что есть\Все что есть\bin\Debug\Все что есть.exe.config
+D:\C#\Мои проекты\Все что есть\Все что есть\bin\Debug\Все что есть.exe
+D:\C#\Мои проекты\Все что есть\Все что есть\bin\Debug\Все что есть.pdb
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все что есть.csproj.SuggestedBindingRedirects.cache
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все_что_есть.Properties.Resources.resources
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все что есть.csproj.GenerateResource.cache
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все что есть.csproj.CoreCompileInputs.cache
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все что есть.exe
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все что есть.pdb
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все_что_есть.Game.resources
+D:\C#\Мои проекты\Все что есть\Все что есть\obj\Debug\Все что есть.csproj.AssemblyReference.cache
